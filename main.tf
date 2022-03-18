@@ -14,3 +14,7 @@ provider "random" {
 resource "random_pet" "pet" {
   length           = var.word-count
 }
+
+resource "random_pet" "second_pet" {
+  length           = var.word-count
+}
