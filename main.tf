@@ -41,6 +41,6 @@ resource "random_string" "random_word_6" {
   length           = 11
 }
 
-resource "random_string" "random_word_6" {
+resource "random_string" "random_word_7" {
   length           = 11
 }
