@@ -22,3 +22,25 @@ resource "random_string" "random_word" {
 resource "random_string" "random_word_2" {
   length           = 11
 }
+
+
+resource "random_string" "random_word_3" {
+  length           = 11
+}
+
+
+resource "random_string" "random_word_4" {
+  length           = 11
+}
+
+resource "random_string" "random_word_5" {
+  length           = 11
+}
+
+resource "random_string" "random_word_6" {
+  length           = 11
+}
+
+resource "random_string" "random_word_6" {
+  length           = 11
+}
