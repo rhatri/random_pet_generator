@@ -1,6 +1,5 @@
 variable "word-count" {
   type = number
-  default = 4
   description = "number of words"
 }
 
